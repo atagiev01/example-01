@@ -198,6 +198,7 @@ img {
   display: flex;
   text-decoration: none;
   color: black;
+  align-items: center;
 }
 .product-user-buttons .img-icon span {
   display: flex;
